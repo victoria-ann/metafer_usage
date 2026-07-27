@@ -1,4 +1,4 @@
-#!/Users/toripalecek/Documents/metafer_usage/env/bin/python3.12
+#!/Users/toripalecek/Documents/metafer_usage/env/bin/python3.14
 # -*- coding: utf-8 -*-
 import re
 import sys
