@@ -1,0 +1,12 @@
+columns:
+  - case_number: str
+  - capture_date: datetime
+  - scans: int64
+  - metafer: str
+  - date: datetime
+  - time: datetime
+  - time_bin: datetime
+  - month: int64
+  - weekday: str
+  - weekday_index: int64
+  - shift: str

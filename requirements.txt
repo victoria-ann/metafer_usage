@@ -5,4 +5,14 @@ matplotlib
 seaborn
 scikit-learn
 datetime
+pymongo
+dotenv
+certifi
+dill
+pyaml
+mlflow
+dagshub
+fastapi
+uvicorn
+python-multipart
 #-e .
